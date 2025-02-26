@@ -1,5 +1,3 @@
-# Python_Pros
-This repository contains Python programs covering fundamental concepts to advanced Data Structures and Algorithms (DSA).
 # Python Complete Codes 🚀
 
 This repository contains Python programs covering **fundamental concepts to advanced Data Structures and Algorithms (DSA)**. It is structured in a way that makes it easy to follow from **basic Python concepts to more complex topics like searching, sorting, recursion, and DSA**.
@@ -80,8 +78,3 @@ This repository contains Python programs covering **fundamental concepts to adva
 - `power_of_two.py`
 
 ---
-
-## 🚀 **How to Use This Repository**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Python-Complete-Codes.git
