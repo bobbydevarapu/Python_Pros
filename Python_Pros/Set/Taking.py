@@ -1,0 +1,7 @@
+s=set(map(int,input("Enter set :").split()))
+print()
+print("Set size : ",len(s))
+print("Set elements : ",s)
+print("Set is empty : ",s==set())
+print("Set is subset of {1,2,3} : ",s.issubset)
+print("Set is superset of {1,2,3} : ",s.issuperset)
